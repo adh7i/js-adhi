@@ -1,2 +1,2 @@
-# js-adhi
+# js
 A code repo for JavaScript
